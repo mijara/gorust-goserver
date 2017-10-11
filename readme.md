@@ -1,6 +1,6 @@
 # Clase Práctica!
 
-## Estructura:
+## Estructura
 
 - Ejemplo de Servidor Web
 - Trabajo Individual
